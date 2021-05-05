@@ -1109,6 +1109,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   .header-cart-title {
     padding-bottom: 35px;
   }
+  .isotope-item {
+    width: 50%;
+  }
 }
 
 
