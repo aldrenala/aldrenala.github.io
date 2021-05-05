@@ -599,7 +599,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     display: none;
 }
 .slider {
-    border-radius: none;
+    border-radius: 5px !important;
 }
 }
 
@@ -3407,7 +3407,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .slider {
     overflow: hidden;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .slider__canvas {
