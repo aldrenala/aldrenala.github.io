@@ -588,6 +588,16 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     height: 90px;
   }
   .left-top-bar {font-size: 75% !important}
+  .slider-nav__prev,
+.slider-nav__next {
+    position: absolute;
+    top: 50%;
+    width: 3rem;
+    height: 3rem;
+    margin-top: -1.5rem;
+    line-height: 3rem;
+    display: none;
+}
 }
 
 @media (max-width: 575px) {
