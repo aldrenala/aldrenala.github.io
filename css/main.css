@@ -601,6 +601,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .slider {
     border-radius: 5px !important;
 }
+.slider-nav__dots {
+    bottom: 0px !important;
+}
 }
 
 @media (max-width: 575px) {
