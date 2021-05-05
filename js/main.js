@@ -276,11 +276,12 @@
     $('.js-hide-modal1').on('click',function(){
         $('.js-modal1').removeClass('show-modal1');
     });
-
-        $(document).on("contextmenu",function(e){
+    
+    $(document).on("contextmenu",function(e){
         // alert('right click disabled');
         return false;
     });
+
 
 
 })(jQuery);
