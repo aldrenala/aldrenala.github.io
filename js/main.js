@@ -277,10 +277,10 @@
         $('.js-modal1').removeClass('show-modal1');
     });
     
-    $(document).on("contextmenu",function(e){
-        // alert('right click disabled');
-        return false;
-    });
+    // $(document).on("contextmenu",function(e){
+    //     // alert('right click disabled');
+    //     return false;
+    // });
 
 
 
