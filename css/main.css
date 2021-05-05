@@ -721,11 +721,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 @media (max-width: 800px){
-  .left-top-bar {
-    font-size: 70% !important;
-  }
-  .grid {
-    margin-top: 20px;
+  .grid-slide {
+    margin-top: 300px;
+    border: solid 1px red;
   }
 }
 
