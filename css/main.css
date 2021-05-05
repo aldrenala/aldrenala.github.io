@@ -722,8 +722,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 @media (max-width: 800px){
   .grid-slide {
-    margin-top: 300px;
-    border: solid 1px red;
+    margin-top: 30px;
   }
 }
 
