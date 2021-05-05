@@ -587,7 +587,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   .wrap-search-header {
     height: 90px;
   }
-  .left-top-bar {font-size: 80% !important}
+  .left-top-bar {font-size: 75% !important}
 }
 
 @media (max-width: 575px) {
