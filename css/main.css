@@ -598,6 +598,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     line-height: 3rem;
     display: none;
 }
+.slider {
+    border-radius: none;
+}
 }
 
 @media (max-width: 575px) {
