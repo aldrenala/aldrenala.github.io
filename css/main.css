@@ -724,6 +724,9 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   .left-top-bar {
     font-size: 70% !important;
   }
+  .grid {
+    margin-top: 20px;
+  }
 }
 
 /*==================================================================
